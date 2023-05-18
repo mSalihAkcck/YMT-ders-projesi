@@ -1,5 +1,6 @@
 import magaza
 
+print("Kodda olan değişikliği commit ettikten sonra göstermek için bu şekilde değişiklik yapıyorum.")
 def main():
     while True:                                  # her döngü için
         magaza_ismi = input("Magaza adı: ")      # istenen bilgileri
